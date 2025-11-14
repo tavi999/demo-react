@@ -1,4 +1,5 @@
-import { Board } from "../Board/Board"
+import "./game.styles.css"
+import { Board } from "../Board/Board";
 import {useState} from "react";
 
 export function Game(){

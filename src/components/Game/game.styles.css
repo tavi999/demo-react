@@ -1,0 +1,23 @@
+.game {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 100vh;
+    gap: 40px;
+}
+
+.game-board {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.game-info {
+    font-size: 1.2rem;
+}
+
+.game-info ol {
+    padding-left: 20px;
+}
